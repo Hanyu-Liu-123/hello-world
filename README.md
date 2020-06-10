@@ -1,2 +1,2 @@
 # hello-world
-Practicing making repositories
+hey guys :)
